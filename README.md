@@ -1,4 +1,4 @@
-_BETA-VERSION_
+<!-- _BETA-VERSION_ -->
 
 <h2>Links:</h2>
 
