@@ -4,7 +4,7 @@ import "./navbar.css";
 export const Navbar = () => {
   return (
     <div className="navbar">
-      <h1>Name</h1>
+      <h1>CryptoBux</h1>
     </div>
   );
 };
