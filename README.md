@@ -3,7 +3,7 @@ _BETA-VERSION_
 <h2>Links:</h2>
 
 <ul>
-    <li><a href="/">Name</a></li>
+    <li><a href="/">CryptoBux</a></li>
     <li><a href="#how-to-use">How-To-Use</a></li>
     <li><a href="#license">License</a></li>
 </ul>
