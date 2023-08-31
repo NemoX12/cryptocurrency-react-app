@@ -1,0 +1,28 @@
+.search-bar {
+    text-align: center;
+    margin-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.search-bar > input {
+    width: 15rem;
+    height: 2.5rem;
+    border-radius: 8px;
+    border: none;
+    transition: all 0.1s ease;
+    background: linear-gradient(45deg, #7c9bff, #3a5ab4);
+    color: white;
+    padding: 3px;
+}
+
+.search-bar > input:hover {
+    transform: scale(1.05);
+}
+
+.search-bar > input:focus {
+    outline: none;
+}
+
+.search-bar > input::placeholder {
+    color: white;
+}

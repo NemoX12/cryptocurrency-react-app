@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    width: 100%;
+    background-color: #161b5a;
+    box-shadow: 0rem 0rem 2rem rgb(0, 0, 0);
+    position: sticky;
+    top: 0;
+}
+
+.navbar > h1 {
+    margin-left: 0.5rem;
+    transition: all 0.1s ease;
+    cursor: pointer;
+}
+
+.navbar > h1:hover {
+    color: #b4b4b4;
+}

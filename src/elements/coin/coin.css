@@ -1,0 +1,24 @@
+.coin-row {
+    display: flex;
+    margin-left: 2rem;
+    align-items: center;
+    border-bottom: 1px solid white;
+    width: 50%;
+}
+
+.coin-row > h3 {
+    margin-left: 10px;
+}
+
+.coin-data {
+    display: flex;
+    margin-left: auto;
+    align-self: center;
+    justify-content: flex-end;
+    
+}
+
+.p-converted {
+    padding-right: 1rem;
+}
+
