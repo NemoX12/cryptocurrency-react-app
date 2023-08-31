@@ -3,10 +3,12 @@ _BETA-VERSION_
 <h2>Links:</h2>
 
 <ul>
-    <li><a href="/">CryptoBux</a></li>
+    <li><a href="https://crypto-bux.netlify.app/">CryptoBux</a></li>
     <li><a href="#how-to-use">How-To-Use</a></li>
     <li><a href="#license">License</a></li>
 </ul>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb78027f-f2d8-474b-8047-3369a4981eab/deploy-status)](https://app.netlify.com/sites/crypto-bux/deploys)
 
 <h1 style="text-align: center;">
     <strong>
