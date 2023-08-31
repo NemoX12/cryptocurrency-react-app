@@ -10,7 +10,7 @@ _BETA-VERSION_
 
 <h1 style="text-align: center;">
     <strong>
-        Name
+        CryptoBux
     </strong>
 </h1>
 
